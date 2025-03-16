@@ -88,11 +88,11 @@ span {
 }
 
 .output .previous-operand {
-  color: rgba(0, 0, 0, 0.75);
+  color: rgba(255, 255, 255, 0.75);
   font-size: 1.5rem;
 }
 
 .output .current-operand {
-  color: #000;
+  color: #fff;
   font-size: 2.5rem;
 }
